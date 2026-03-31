@@ -50,3 +50,6 @@ Rush Hours: Sales peak consistently around 10:00 AM, 11:00 AM, and 4:00 PM, high
 Customer Preferences: Americano with Milk and Latte emerged as the absolute top-selling coffee types, reflecting a strong customer preference for milk-based espresso drinks.
 
 Weekly Trends: The data shows that Weekdays account for the vast majority of sales (75%) compared to weekends (25%), suggesting the primary customer base consists of daily commuters and office workers.
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-02 132950" src="https://github.com/user-attachments/assets/b5ef2843-1f59-43b3-a91c-22435859c695" />
+
